@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1522645873120">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1522650310644">
   <folder name="css">
-    <file name="site_global.css" crc="199446301"/>
-    <file name="master_enmaster.css" crc="4269571518" ref="english"/>
-    <file name="nomq_preview_master_enmaster.css" crc="44056778" ref="english"/>
-    <file name="master_jamaster.css" crc="3950105988" ref="index"/>
+    <file name="site_global.css" crc="3793497900"/>
+    <file name="master_jamaster.css" crc="204292041" ref="index"/>
     <file name="nomq_preview_master_jamaster.css" crc="3937373562" ref="index"/>
-    <file name="english.css" crc="4196453987" ref="english"/>
-    <file name="nomq_english.css" crc="255009017" ref="english"/>
-    <file name="index.css" crc="4254386277" ref="index"/>
+    <file name="master_enmaster.css" crc="3809221080" ref="english"/>
+    <file name="nomq_preview_master_enmaster.css" crc="44056778" ref="english"/>
+    <file name="index.css" crc="3785607301" ref="index"/>
     <file name="nomq_index.css" crc="4188817974" ref="index"/>
+    <file name="english.css" crc="210918194" ref="english"/>
+    <file name="nomq_english.css" crc="3947733050" ref="english"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:english"/>
@@ -33,6 +33,6 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:english"/>
   </folder>
-  <file name="index.html" crc="447281838" seo="true" mt="1522645816140" redirect="true"/>
-  <file name="english.html" crc="3862804836" seo="true" mt="1522645623210" redirect="true"/>
+  <file name="index.html" crc="144118059" seo="true" mt="1522645816140" redirect="true"/>
+  <file name="english.html" crc="245191237" seo="true" mt="1522650266597" redirect="true"/>
 </manifest>
