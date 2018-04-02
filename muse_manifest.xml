@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1522650798208">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1522658847468">
   <folder name="css">
     <file name="site_global.css" crc="3793497900"/>
-    <file name="master_jamaster.css" crc="204292041" ref="index"/>
+    <file name="master_jamaster.css" crc="3794496662" ref="index"/>
     <file name="nomq_preview_master_jamaster.css" crc="3937373562" ref="index"/>
-    <file name="master_enmaster.css" crc="3809221080" ref="english"/>
+    <file name="master_enmaster.css" crc="3913680015" ref="english"/>
     <file name="nomq_preview_master_enmaster.css" crc="44056778" ref="english"/>
-    <file name="index.css" crc="3785607301" ref="index"/>
+    <file name="index.css" crc="501788916" ref="index"/>
     <file name="nomq_index.css" crc="4188817974" ref="index"/>
-    <file name="english.css" crc="4284649638" ref="english"/>
+    <file name="english.css" crc="301797762" ref="english"/>
     <file name="nomq_english.css" crc="356067546" ref="english"/>
   </folder>
   <folder name="scripts">
@@ -33,6 +33,6 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:english"/>
   </folder>
-  <file name="index.html" crc="144118059" seo="true" mt="1522645816140" redirect="true"/>
-  <file name="english.html" crc="4031236513" seo="true" mt="1522650790039" redirect="true"/>
+  <file name="index.html" crc="88642871" seo="true" mt="1522658265496" redirect="true"/>
+  <file name="english.html" crc="4062785344" seo="true" mt="1522658626520" redirect="true"/>
 </manifest>
