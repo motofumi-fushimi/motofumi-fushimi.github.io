@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1523087262489">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1523088580714">
   <folder name="css">
     <file name="site_global.css" crc="3793497900"/>
-    <file name="master_jamaster.css" crc="420053976" ref="index"/>
-    <file name="nomq_preview_master_jamaster.css" crc="3890353692" ref="index"/>
-    <file name="master_enmaster.css" crc="4192175929" ref="english"/>
-    <file name="nomq_preview_master_enmaster.css" crc="3903311283" ref="english"/>
-    <file name="index.css" crc="3903703969" ref="index"/>
+    <file name="master_jamaster.css" crc="228393226" ref="index"/>
+    <file name="nomq_preview_master_jamaster.css" crc="3762576540" ref="index"/>
+    <file name="master_enmaster.css" crc="438034810" ref="english"/>
+    <file name="nomq_preview_master_enmaster.css" crc="4177929479" ref="english"/>
+    <file name="index.css" crc="78578313" ref="index"/>
     <file name="nomq_index.css" crc="4193789988" ref="index"/>
-    <file name="english.css" crc="3871058385" ref="english"/>
+    <file name="english.css" crc="488061009" ref="english"/>
     <file name="nomq_english.css" crc="161969922" ref="english"/>
   </folder>
   <folder name="scripts">
@@ -40,6 +40,6 @@
     </file>
     <file name="hamburger_poster_.png" crc="4013038891" ref="index"/>
   </folder>
-  <file name="index.html" crc="211395674" seo="true" mt="1523087048859" redirect="true"/>
-  <file name="english.html" crc="3871881058" seo="true" mt="1523087192750" redirect="true"/>
+  <file name="index.html" crc="3863333276" seo="true" mt="1523088400885" redirect="true"/>
+  <file name="english.html" crc="4239077948" seo="true" mt="1523088543552" redirect="true"/>
 </manifest>
