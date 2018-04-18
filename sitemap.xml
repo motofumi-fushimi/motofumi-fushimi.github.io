@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://fushimi1018.com/index.html</loc>
-    <lastmod>2018-04-12</lastmod>
+    <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,8 +13,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://fushimi1018.com/english.html</loc>
-    <lastmod>2018-04-12</lastmod>
+    <loc>http://fushimi1018.com/japanese.html</loc>
+    <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,6 +23,12 @@
     <image:image>
       <image:loc>http://fushimi1018.com/images/hamburger.svg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://fushimi1018.com/assets/cv_fushimi_20180401.pdf</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://fushimi1018.com/assets/2018%E5%B9%B4%E5%BA%A6%E5%8C%97%E9%9B%84%E5%90%88%E5%AE%BF%E8%AC%9B%E6%BC%94%E8%B3%87%E6%96%99.pdf</loc>
