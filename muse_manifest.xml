@@ -1,54 +1,51 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1524044708233">
-  <folder name="assets">
-    <file name="2018年度北雄合宿講演資料.pdf" crc="137777945" seo="true" mt="1523523302000"/>
-    <file name="cv_fushimi_20180401.pdf" crc="358745939" seo="true" mt="1524041616000"/>
-  </folder>
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fushimi1018.com" resolutions="1x" timestamp="1601099901498">
   <folder name="css">
-    <file name="site_global.css" crc="199446301"/>
-    <file name="master_jamaster.css" crc="4039698832" ref="japanese"/>
-    <file name="nomq_preview_master_jamaster.css" crc="45041272" ref="japanese"/>
-    <file name="master_enmaster.css" crc="4125673633" ref="index"/>
-    <file name="nomq_preview_master_enmaster.css" crc="468533219" ref="index"/>
-    <file name="index.css" crc="3957732104" ref="index"/>
-    <file name="nomq_index.css" crc="4143708605" ref="index"/>
-    <file name="japanese.css" crc="4275216593" ref="japanese"/>
-    <file name="nomq_japanese.css" crc="168524117" ref="japanese"/>
+    <file name="site_global.css" crc="3793497900"/>
+    <file name="master_jamaster.css" crc="185137326" ref="japanese"/>
+    <file name="nomq_preview_master_jamaster.css" crc="270470392" ref="japanese"/>
+    <file name="master_enmaster.css" crc="3872525447" ref="index"/>
+    <file name="nomq_preview_master_enmaster.css" crc="157119843" ref="index"/>
+    <file name="index.css" crc="3994879226" ref="index"/>
+    <file name="nomq_index.css" crc="3862589486" ref="index"/>
+    <file name="japanese.css" crc="141229888" ref="japanese"/>
+    <file name="nomq_japanese.css" crc="470230399" ref="japanese"/>
+  </folder>
+  <folder name="assets">
+    <file name="2018年度北雄合宿講演資料.pdf" crc="137777945" seo="true" mt="1585702536000"/>
+    <file name="cv_20201001.pdf" crc="414670163" seo="true" mt="1601083140000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:japanese"/>
-    <file name="museutils.js" crc="340535759" ref="index:japanese"/>
+    <file name="museutils.js" crc="3939489907" ref="index:japanese"/>
     <file name="whatinput.js" crc="86476730" ref="index:japanese"/>
-    <file name="museconfig.js" crc="310584261" ref="index:japanese"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:japanese"/>
-    <file name="webpro.js" crc="4059564322" ref="index:japanese"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:japanese"/>
+    <file name="museconfig.js" crc="128606099" ref="index:japanese"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:japanese"/>
+    <file name="webpro.js" crc="3856315280" ref="index:japanese"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:japanese"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:japanese"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:japanese"/>
-    <file name="require.js" crc="7928878" ref="index:japanese"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:japanese"/>
+    <file name="require.js" crc="4177726516" ref="index:japanese"/>
   </folder>
   <folder name="images">
-    <file name="myphoto.jpg" crc="4099347938" seo="true" ref="index:japanese">
+    <file name="myphoto.jpg" crc="483926681" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="japanese" alt=""/>
-      <caption webpage="japanese" alt=""/>
-      <caption webpage="japanese" alt=""/>
-      <caption webpage="english" alt=""/>
-      <caption webpage="english" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:japanese"/>
     <file name="hamburger.svg" crc="26607822" seo="true" ref="index:japanese">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="japanese" alt=""/>
       <caption webpage="japanese" alt=""/>
-      <caption webpage="english" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="hamburger_poster_.png" crc="4013038891" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:japanese"/>
+    <file name="myphoto2.jpg" crc="483926681" seo="true" ref="japanese">
+      <caption webpage="japanese" alt=""/>
+      <caption webpage="japanese" alt=""/>
+      <caption webpage="japanese" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3822066202" seo="true" mt="1524044631732" redirect="true"/>
-  <file name="japanese.html" crc="4281755823" seo="true" mt="1524044690593" redirect="true"/>
+  <file name="index.html" crc="3998866051" seo="true" mt="1601099722391" redirect="true"/>
+  <file name="japanese.html" crc="387508561" seo="true" mt="1601086414844" redirect="true"/>
 </manifest>
