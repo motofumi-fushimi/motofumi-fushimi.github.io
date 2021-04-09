@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motofumi-fushimi.com" resolutions="1x" timestamp="1617122920857">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motofumi-fushimi.com" resolutions="1x" timestamp="1617953687992">
   <folder name="css">
     <file name="site_global.css" crc="3793497900"/>
-    <file name="master_jamaster.css" crc="211982156" ref="japanese"/>
-    <file name="nomq_preview_master_jamaster.css" crc="270470392" ref="japanese"/>
-    <file name="master_enmaster.css" crc="301239800" ref="index"/>
-    <file name="nomq_preview_master_enmaster.css" crc="157119843" ref="index"/>
-    <file name="japanese.css" crc="340691879" ref="japanese"/>
-    <file name="nomq_japanese.css" crc="4274310817" ref="japanese"/>
-    <file name="index.css" crc="3815952545" ref="index"/>
-    <file name="nomq_index.css" crc="105953538" ref="index"/>
+    <file name="master_jamaster.css" crc="364157936" ref="japanese"/>
+    <file name="nomq_preview_master_jamaster.css" crc="4110062469" ref="japanese"/>
+    <file name="master_enmaster.css" crc="4022710255" ref="index"/>
+    <file name="nomq_preview_master_enmaster.css" crc="107112475" ref="index"/>
+    <file name="japanese.css" crc="312075963" ref="japanese"/>
+    <file name="nomq_japanese.css" crc="3969426657" ref="japanese"/>
+    <file name="index.css" crc="465903588" ref="index"/>
+    <file name="nomq_index.css" crc="249564495" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="2018年度北雄合宿講演資料.pdf" crc="137777945" seo="true" mt="1523523302000"/>
@@ -46,6 +46,6 @@
       <caption webpage="japanese" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3894010855" seo="true" mt="1617122748441" redirect="true"/>
-  <file name="japanese.html" crc="417509213" seo="true" mt="1617122737133" redirect="true"/>
+  <file name="index.html" crc="3861924013" seo="true" mt="1617953666754" redirect="true"/>
+  <file name="japanese.html" crc="4034842005" seo="true" mt="1617953577166" redirect="true"/>
 </manifest>
