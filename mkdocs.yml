@@ -22,7 +22,7 @@ extra:
   generator: false
 
 extra_css:
-  - Styles/website.css
+  - website.css
   - https://unpkg.com/katex@0/dist/katex.min.css
 
 extra_javascript:
