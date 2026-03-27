@@ -22,17 +22,18 @@
 ## 物理情報工学科新4年生向け
 
 3/26ガイダンスの発表資料です。
+
 私の研究に興味を持った人は，ぜひ`motofumi.fushimi(a)keio.jp`までご連絡ください。
 
 <iframe
   src="slidedeck.pdf"
-  style="width: 100%; aspect-ratio: 16 / 9; outline: 1px solid #ccc; display: block;"
+  style="margin-top: 1ex; margin-bottom: 1ex; width: 100%; aspect-ratio: 16 / 9; outline: 1px solid #ccc; display: block;"
 ></iframe>
+
+##
 
 <div class="profile-grid" markdown>
 <div class="profile-text" markdown>
-
-##
 
 ### 伏見 幹史 (Motofumi Fushimi)
 
@@ -107,6 +108,7 @@
 
 - *2026.03.19 🏆* 2025年度電気学会優秀論文発表賞（A部門研究会）を受賞しました．
 - *2026.03.13 🏆* 2025年度計測自動制御学会学術奨励賞研究奨励賞を受賞しました．
+- *2026.02.10 📝* 解説記事「多重極モデルに基づく脳磁図の計測・解析技術」が出版されました．
 - *2025.06.20 📣* 国内会議 第40回日本生体磁気学会大会にて発表しました。
 - *2025.05.14 📣* 国際会議 The 33rd ISMRM & ISMRT Annual Meeting & Exhibition にて "Multi-echo Bloch-Siegert shift method for simultaneous B1 magnitude and phase mapping" と題して発表しました。
 - *2025.05.12 📝* 共著論文 "Performance evaluation of a a diamond quantum magnetometer for biomagnetic sensing: A phantom study" が出版されました。
