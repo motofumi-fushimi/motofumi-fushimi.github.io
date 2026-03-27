@@ -1,0 +1,52 @@
+site_name: Motofumi Fushimi
+site_url: https://motofumi-fushimi.github.io
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    - scheme: default
+  icon:
+    logo: fontawesome/solid/graduation-cap
+  favicon: Images/favicon.ico
+
+copyright: © 2026 Motofumi Fushimi. All Rights Reserved.
+
+extra:
+  generator: false
+
+extra_css:
+  - Styles/website.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+extra_javascript:
+  - Macros/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+plugins:
+  - search
+  - exclude:
+      glob:
+        - ".git/**/*"
+        - ".github/**/*"
+        - ".devcontainer/**/*"
+        - ".vscode/**/*"
+        - ".gitignore"
+        - ".gitattributes"
+        - "mkdocs.yml"
+        - "readme.md"
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
