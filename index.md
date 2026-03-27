@@ -7,7 +7,7 @@
 慶應義塾大学理工学部物理情報工学科
 </div>
 <div class="author">
-伏見グループ＠塚田研究室
+伏見幹史
 </div>
 <div class="title">
 生体磁気イメージング
