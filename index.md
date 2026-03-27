@@ -21,6 +21,9 @@
 
 ## 物理情報工学科新4年生向け
 
+3/26ガイダンスの発表資料です。
+私の研究に興味を持った人は，ぜひ`motofumi.fushimi(a)keio.jp`までご連絡ください。
+
 <iframe
   src="slidedeck.pdf"
   style="width: 100%; aspect-ratio: 16 / 9; outline: 1px solid #ccc; display: block;"
@@ -28,6 +31,8 @@
 
 <div class="profile-grid" markdown>
 <div class="profile-text" markdown>
+
+##
 
 ### 伏見 幹史 (Motofumi Fushimi)
 
