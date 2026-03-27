@@ -35,7 +35,7 @@
 </div>
 <div class="profile-image" markdown>
 
-![Motofumi Fushimi](Images/profile.jpg)
+![Motofumi Fushimi](profile.jpg)
 
 </div>
 </div>
